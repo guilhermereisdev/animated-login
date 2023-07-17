@@ -1,16 +1,23 @@
-# animated_login
+# Animated Login
 
 Tela de login que utiliza animações do Flutter.
 
-## Getting Started
+Autor: Guilherme Reis - [LinkedIn](https://www.linkedin.com/in/guilhermereisdev/)
 
-This project is a starting point for a Flutter application.
+### Sistemas disponíveis
+✅ Android | ✅ iOS
 
-A few resources to get you started if this is your first Flutter project:
+### Recursos do app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Exibe uma tela de login com vários tipos de animações dos componentes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Técnicas utilizadas
+
+- FadeTransition, BackdropFilter, Tween
+- Modificação de altura, largura, bordas, borrão, fade-in e fade-out nos componentes.
+
+### Telas
+
+_Clique na imagem para ver em tela cheia_
+
+<img src="screenshots/001.gif" width="30%"> 
